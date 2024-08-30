@@ -22,5 +22,7 @@ C)To set up your Django project with the required dependencies, follow these ste
   Run Developed Server - python manage.py runserver
   Run Test Cases - python manage.py test
 
+  Note-1)Mysql databases are used 
+       1)Check uploaded screenshots for postman test and manual test
 
 
