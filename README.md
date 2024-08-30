@@ -1,7 +1,7 @@
                 ....  documentation ....
 
 A)Overview
-A Django-based Project Management API for managing clients and projects.
+A Django-based API for managing clients and projects.
 Supports CRUD operations for clients and projects, user assignments, and 
 client-project associations.
 
